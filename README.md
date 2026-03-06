@@ -22,6 +22,8 @@ Traditional water quality monitoring relies on manual sampling and laboratory te
 
 ## System Architecture
 
+![USV Design](demopics/usv-design.jpg)
+
 The BlueShield system consists of the following main components:
 ### 1. USV Hardware Platform
    Microcontroller: ESP32
@@ -37,6 +39,8 @@ The BlueShield system consists of the following main components:
   Displays real-time sensor readings.
   Shows predicted heavy metal levels.
   Provides live maps and historical data visualizations.
+
+![USV Gliding](demopics/drone_in_water.jpeg)
 
 ## Applications
 Environmental monitoring of lakes, rivers, and reservoirs
