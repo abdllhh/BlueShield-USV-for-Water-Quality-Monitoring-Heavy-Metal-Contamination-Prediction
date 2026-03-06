@@ -40,7 +40,7 @@ The BlueShield system consists of the following main components:
   Shows predicted heavy metal levels.
   Provides live maps and historical data visualizations.
 
-![USV Gliding](demopics/drone_in_water.jpeg)
+![USV Gliding](demopics/usv_in_water.jpg)
 
 ## Applications
 Environmental monitoring of lakes, rivers, and reservoirs
