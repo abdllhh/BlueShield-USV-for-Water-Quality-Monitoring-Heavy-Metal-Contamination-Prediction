@@ -15,7 +15,6 @@ Traditional water quality monitoring relies on manual sampling and laboratory te
   Temperature
   Dissolved Oxygen (DO)
 - Machine Learning–based prediction of heavy metal concentrations such as Arsenic, Lithium, and Barium. 
-- 6330_FYPreport_FINAL FINAL
 - LoRa-based long-range communication for transmitting sensor data.
 - Web dashboard for real-time visualization, graphs, and GPS tracking.
 - Surface trash collection mechanism integrated into the USV design.
