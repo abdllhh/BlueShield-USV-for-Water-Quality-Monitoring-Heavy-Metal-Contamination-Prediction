@@ -54,4 +54,6 @@ Research and data collection for water quality studies
 - The **transmitter_combined.cpp** file runs on the ESP32 mounted on the USV and is responsible for collecting and transmitting environmental data. It continuously reads measurements from onboard sensors including pH, electrical conductivity (EC), total dissolved solids (TDS), dissolved oxygen (DO), and temperature. At the same time, it retrieves location coordinates from the GPS module. The gathered information is then organized into a compact structured packet and transmitted periodically over the 433 MHz LoRa link to the ground receiver.
 
 [Watch the demo](demopics/demo-swimming.mp4)
-https://github.com/abdllhh/BlueShield-USV-for-Water-Quality-Monitoring-Heavy-Metal-Contamination-Prediction/blob/main/demopics/demo-swimming.mp4
+
+
+https://github.com/abdllhh/BlueShield-USV-for-Water-Quality-Monitoring-Heavy-Metal-Contamination-Prediction/raw/main/demopics/demo-swimming.mp4
