@@ -55,5 +55,6 @@ Research and data collection for water quality studies
 
 [Watch the demo](demopics/demo-swimming.mp4)
 
+https://github.com/user-attachments/assets/270a6a1d-b398-4e4c-8f28-3afa756441f9
 
-https://github.com/abdllhh/BlueShield-USV-for-Water-Quality-Monitoring-Heavy-Metal-Contamination-Prediction/raw/main/demopics/demo-swimming.mp4
+
