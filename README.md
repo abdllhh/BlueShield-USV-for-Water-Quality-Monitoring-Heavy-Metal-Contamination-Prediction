@@ -52,4 +52,5 @@ Research and data collection for water quality studies
 - Firmware for LoRa Nodes Setup is in **LoRa Nodes** folder
 - The **received_combined.cpp** file operates on a separate ESP32 or compatible microcontroller that listens for LoRa transmissions from the USV. When packets arrive, the code extracts and interprets the sensor readings and GPS data contained within them. The processed data can then be forwarded to the backend system for further use, displayed through a serial interface, or used for logging and visualization.
 - The **transmitter_combined.cpp** file runs on the ESP32 mounted on the USV and is responsible for collecting and transmitting environmental data. It continuously reads measurements from onboard sensors including pH, electrical conductivity (EC), total dissolved solids (TDS), dissolved oxygen (DO), and temperature. At the same time, it retrieves location coordinates from the GPS module. The gathered information is then organized into a compact structured packet and transmitted periodically over the 433 MHz LoRa link to the ground receiver.
-  
+
+[Watch the demo](demo_pics/demo-swimming.mp4)
